@@ -14,7 +14,7 @@ pipeline {
 
          stage("Test") {
              steps {
-                 echo "Testing an application."
+                 echi "Testing an application."
              }
          }
 
